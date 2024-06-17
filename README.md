@@ -16,4 +16,10 @@ At the end of training, the model and weights can be downloaded and uploaded bac
 
 ## Detailed explanation
 
-The various markdown files provide a layman explanation of each part of the code that walks an interested layman party through the code step-by-step.
+Required software to run the python scripts in Python, required packages can be found in requirements.txt and can be installed as `pip install -r requirements.txt` or `pytho3 -m pip install -r requirements.txt`
+
+The various markdown files provide a layman explanation of each part of the code that walks an interested layman party through the code step-by-step. 
+
+- [server](server.md)
+- [client](client.md)
+- [utils](utils.md)
