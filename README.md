@@ -1,4 +1,4 @@
-# Wisconsin Breast Cancer Dataset Analysis - A Guideline for Developing Scripts within the FL4E Framework
+# Wisconsin Breast Cancer Dataset Analysis - A Guideline for Developing Scripts within Federated Learning
 
 This repository provides comprehensive guidelines on how scripts are developed for the Federated Learning for Everyone (FL4E) framework using the [Wisconsin Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)). 
 
