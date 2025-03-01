@@ -20,6 +20,6 @@ Required software to run the python scripts in Python, required packages can be 
 
 The various markdown files provide a layman explanation of each part of the code that walks an interested layman party through the code step-by-step. 
 
-- [server](server.md)
-- [client](client.md)
-- [utils](utils.md)
+- [server](federated-learning-server.md)
+- [client](federated-learning-client.md)
+- [utils](federated-learning-utils.md)
